@@ -1,0 +1,6 @@
+{
+  "name": "GeoGrow: Climate Frontiers",
+  "description": "GeoGrow: Climate Frontiers is a hyper-realistic, decentralized farming simulator on GenLayer that bridges virtual agriculture with real-world planetary data by pinning your immersive 3D plot to absolute GPS coordinates. Instead of relying on artificial random numbers, your crops' health, soil moisture, and overall growth milestones are dynamically dictated by live local weather feeds.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
